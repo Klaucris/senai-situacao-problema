@@ -1,6 +1,6 @@
 <html>
 <head><title>Atividade de Versionamento</title></head>
 <body>
-<h1>Versionamento</h1>
+<h1>Git</h1>
 </body>
 </html>
